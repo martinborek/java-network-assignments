@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Hangdroid</string>
+    <string name="action_newgame">New game</string>
+    <string name="letter_word">Letter/word</string>
+    <string name="guess">Guess</string>
+    <string name="cancel">Abort</string>
+    <string name="score">Total score: </string>
+    <string name="attempts">Remaining attempts: </string>
+    <string name="guessing">Guessing...</string>
+    <string name="newgame">Creating new game...</string>
+
+    <string name="title_activity_connect">Hangdroid</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_server">Server</string>
+    <string name="prompt_port">Port</string>
+    <string name="action_connect">Connect</string>
+    <string name="error_invalid_connect">Error connecting</string>
+    <string name="error_field_required">This field is required</string>
+</resources>
